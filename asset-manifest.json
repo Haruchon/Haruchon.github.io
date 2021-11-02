@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Haruchon/Haruchon.github.io/app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Haruchon/Haruchon.github.io/app/static/js/main.074e8618.chunk.js",
-    "main.js.map": "/Haruchon/Haruchon.github.io/app/static/js/main.074e8618.chunk.js.map",
-    "runtime-main.js": "/Haruchon/Haruchon.github.io/app/static/js/runtime-main.7bee459f.js",
-    "runtime-main.js.map": "/Haruchon/Haruchon.github.io/app/static/js/runtime-main.7bee459f.js.map",
-    "static/js/2.7c633c45.chunk.js": "/Haruchon/Haruchon.github.io/app/static/js/2.7c633c45.chunk.js",
-    "static/js/2.7c633c45.chunk.js.map": "/Haruchon/Haruchon.github.io/app/static/js/2.7c633c45.chunk.js.map",
-    "static/js/3.e311f4d8.chunk.js": "/Haruchon/Haruchon.github.io/app/static/js/3.e311f4d8.chunk.js",
-    "static/js/3.e311f4d8.chunk.js.map": "/Haruchon/Haruchon.github.io/app/static/js/3.e311f4d8.chunk.js.map",
-    "index.html": "/Haruchon/Haruchon.github.io/app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Haruchon/Haruchon.github.io/app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7c633c45.chunk.js.LICENSE.txt": "/Haruchon/Haruchon.github.io/app/static/js/2.7c633c45.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Haruchon/Haruchon.github.io/app/static/media/logo.6ce24c58.svg"
+    "main.css": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/main.074e8618.chunk.js",
+    "main.js.map": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/main.074e8618.chunk.js.map",
+    "runtime-main.js": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/runtime-main.bbb4db6b.js",
+    "runtime-main.js.map": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/runtime-main.bbb4db6b.js.map",
+    "static/js/2.7c633c45.chunk.js": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/2.7c633c45.chunk.js",
+    "static/js/2.7c633c45.chunk.js.map": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/2.7c633c45.chunk.js.map",
+    "static/js/3.e311f4d8.chunk.js": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/3.e311f4d8.chunk.js",
+    "static/js/3.e311f4d8.chunk.js.map": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/3.e311f4d8.chunk.js.map",
+    "index.html": "/Haruchon/Haruchon.github.io/Haruchon.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7c633c45.chunk.js.LICENSE.txt": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/js/2.7c633c45.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Haruchon/Haruchon.github.io/Haruchon.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bee459f.js",
+    "static/js/runtime-main.bbb4db6b.js",
     "static/js/2.7c633c45.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.074e8618.chunk.js"
