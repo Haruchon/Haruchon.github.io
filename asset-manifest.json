@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/haruchon/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/haruchon/static/js/main.b07c327b.chunk.js",
+    "main.js.map": "/haruchon/static/js/main.b07c327b.chunk.js.map",
+    "runtime-main.js": "/haruchon/static/js/runtime-main.2e274770.js",
+    "runtime-main.js.map": "/haruchon/static/js/runtime-main.2e274770.js.map",
+    "static/js/2.636ac38c.chunk.js": "/haruchon/static/js/2.636ac38c.chunk.js",
+    "static/js/2.636ac38c.chunk.js.map": "/haruchon/static/js/2.636ac38c.chunk.js.map",
+    "static/js/3.8caa30ae.chunk.js": "/haruchon/static/js/3.8caa30ae.chunk.js",
+    "static/js/3.8caa30ae.chunk.js.map": "/haruchon/static/js/3.8caa30ae.chunk.js.map",
+    "index.html": "/haruchon/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/haruchon/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.636ac38c.chunk.js.LICENSE.txt": "/haruchon/static/js/2.636ac38c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/haruchon/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e274770.js",
+    "static/js/2.636ac38c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b07c327b.chunk.js"
+  ]
+}
